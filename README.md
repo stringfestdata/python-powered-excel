@@ -1,2 +1,1 @@
-# python-powered-excel
-Python-Powered Excel OLT resources
+Resources for Python-Powered Excel OLT
