@@ -1,7 +1,9 @@
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - openpyxl 
+  - python=3.9  # specify a Python version if needed
+  - openpyxl
   - pandas
   - seaborn
   - matplotlib
